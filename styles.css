@@ -18,4 +18,6 @@ header {
 
 #profile-card img {
     border-radius: 50%;
+    height: 25%;
+    width: 25%;
 }
