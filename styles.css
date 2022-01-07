@@ -1,13 +1,19 @@
+html, body {
+    background-color: #ace1af;
+}
+
 header {
 height: 25%;
 width: 100%;
 display: flex;
 align-content: left;
+padding: 20px;
 }
 
 #profile-card {
     background-color: white;
 color: black;
+padding: 20px;
 }
 
 #profile-card img {
